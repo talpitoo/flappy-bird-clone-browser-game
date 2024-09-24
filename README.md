@@ -8,6 +8,10 @@ This project is a personal modification of the Flappy Bird browser-based game. T
 
 When adding the original game to the home screen on mobile, it lacked a proper favicon, resulting in a dull, generic browser icon. I wanted to bring back a little of the original *Flappy Bird* nostalgia with a proper icon, so I added a favicon to this version. 
 
+## Demo URL
+
+https://flappy-bird-clone-browser-game.vercel.app/
+
 ## Credits
 
 - **Original Game**: *Flappy Bird* was created by Dong Nguyen, developed by [dotGEARS](https://dotgears.com/games/flappybird), and released in 2013.
