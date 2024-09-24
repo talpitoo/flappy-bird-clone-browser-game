@@ -15,7 +15,7 @@ https://flappy-bird-clone-browser-game.vercel.app/
 ## Credits
 
 - **Original Game**: *Flappy Bird* was created by Dong Nguyen, developed by [dotGEARS](https://dotgears.com/games/flappybird), and released in 2013.
-- **Browser-Based Reimplementation**: The browser-based reimplementation of the game was created by the team behind [flappy-bird.co](https://flappy-bird.co). All gameplay mechanics and design credits go to them.
+- **Browser-Based Reimplementation**: The browser-based reimplementation of the game was created by the team behind [flappy-bird.co](https://flappy-bird.co). You can contact them at [acceptpsychologei@gmail.com](mailto:acceptpsychologei@gmail.com). All gameplay mechanics and design credits go to them.
 
 ## Modifications
 
