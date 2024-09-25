@@ -6,7 +6,7 @@ This project is a personal modification of the Flappy Bird browser-based game. T
 
 ## Motivation
 
-When adding the original game to the home screen on mobile, it lacked a proper favicon, resulting in a dull, generic browser icon. I wanted to bring back a little of the original *Flappy Bird* nostalgia with a proper icon, so I added a favicon to this version. 
+When adding the original game to the home screen on mobile, it lacked a proper favicon, resulting in a dull, generic browser icon. I wanted to bring back a little of the original *Flappy Bird* nostalgia with a proper icon, so I added a favicon to this version.
 
 ## Demo URL
 
@@ -21,7 +21,13 @@ https://flappy-bird-clone-browser-game.vercel.app/
 
 The following changes were made to this version:
 - Added a favicon to improve the icon when added to mobile home screens.
+- New color scheme, resembling the original more closely.
+- Removed the outer website frame.
 - No changes were made to the original gameplay or mechanics.
+
+![Old vs. new home screen icons](https://flappy-bird-clone-browser-game.vercel.app/files/assets/flappy-bird-add-to-home-screen-icons.jpg)
+![Flappy Bird old viewport](https://flappy-bird-clone-browser-game.vercel.app/files/assets/flappy-bird-viewport-old.jpg)
+![Flappy Bird new viewport](https://flappy-bird-clone-browser-game.vercel.app/files/assets/flappy-bird-viewport-new.jpg)
 
 ## License
 
